@@ -63,7 +63,7 @@ The sample movie recommendation based on Collaborative Filtering is as follows:
 
 ![test](Snips/M_5.JPG)
 
-## Conclusion :
+## Conclusions :
 
 In this project, we learned the importance of Recommendation Systems, the types of recommender systems being implemented, and how to use matrix factorization to enhance a system. 
 
